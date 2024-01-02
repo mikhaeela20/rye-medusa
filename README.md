@@ -19,3 +19,4 @@ RYE_AUTH_HEADER="Basic {AUTH_TOKEN}" // can be found in the API Section on https
 ```
 3. To login to the admin section the user name is `admin@medusa-test.com` and password is `supersecret`
 
+# rye-store-backend
